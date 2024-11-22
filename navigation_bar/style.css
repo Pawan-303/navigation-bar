@@ -1,0 +1,27 @@
+.body{
+    background-color: black;
+}
+
+
+.navcontainer{
+    background-color: black;
+    border: 2px solid black;
+    position: fixed;
+    display: flex;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.nav{
+    color: white;
+}
+
+a{
+    color: whitesmoke;
+}
